@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hooy</string>
+    <string name="heal_point">Heal Point</string>
+    <string name="mana_point">Mana Point</string>
+</resources>
